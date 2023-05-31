@@ -1,0 +1,13 @@
+.FooterComponent {
+  background-color: #2b2b2b;
+  color: #888888;
+}
+.FooterHeader {
+  border-bottom: 1px solid #888888;
+}
+.FooterMenu:hover {
+  color: white;
+}
+.FooterMenu {
+  color: #888888;
+}

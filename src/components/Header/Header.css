@@ -1,0 +1,124 @@
+.navbar {
+  background-color: #940c00;
+  font-size: 15px;
+  font-weight: 800;
+}
+.BurgerLogo {
+  max-height: 90px;
+}
+.NavButton {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  height: 100%;
+}
+.NavButton span {
+  color: white;
+}
+.NavButton:hover {
+  background-color: #880b00;
+}
+
+.SiparisButton {
+  background-color: #fec52e;
+  border-radius: 10px;
+  padding: 10px 17px;
+}
+.SiparisButton span {
+  color: black;
+}
+.SiparisButton:hover {
+  box-shadow: 0px 0px 15px 5px rgb(255 255 255 / 0.2);
+}
+.dropdown-toggle {
+  color: white;
+}
+.DropdownLink {
+  color: black;
+  text-decoration: none;
+}
+.DropdownLink:hover {
+  color: black;
+}
+.navbar-nav .nav-link.active {
+  color: white;
+}
+
+.NavItem {
+  height: 100%;
+}
+
+.navbar-toggler{
+  background-color: white;
+  border: none;
+}
+.navbar-toggler:focus{
+  box-shadow: none;
+}
+.dropdown-menu{
+  --bs-dropdown-link-active-bg: white;
+}
+
+@media only screen and (min-width: 992px) {
+  .navbar {
+    padding: 0px 60px;
+    height: 100px;
+  }
+  .navbar-collapse {
+    flex-grow: 0;
+    height: 100%;
+  }
+  .SiparisButton {
+    margin-left: 20px;
+  }
+  #RespLink{
+    display: none;
+  }
+  #SiparisButtonTop{
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 991px){
+  .navbar{
+    padding: 0px 30px;
+  }
+  .navbar-collapse {
+    background-color: #940c00;
+  }
+  .container-fluid{
+    padding: 0px;
+  }
+  .navbar > .container-fluid{
+    justify-content: normal;
+  }
+  .NavSiparis{
+    width: 100%;
+    text-align: center;
+  }
+  .NavButton{
+    padding: 20px;
+  }
+  .nav-item{
+    width: 100%;
+  }
+  #SiparisButtonTop{
+    display: block;
+    margin-left: auto;
+    margin-right: 10px;
+  }
+  #RespLink{
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .BurgerLogo {
+    max-height: 50px;
+  }
+  .navbar{
+    padding: 0px 10px;
+    font-size: 12px;
+    font-weight: 700;
+  }
+}
