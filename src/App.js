@@ -16,7 +16,6 @@ import { useDispatch, useSelector } from "react-redux";
 import { calculateTotal } from "./Control/CartSlice";
 import { useEffect } from "react";
 import { Footer } from "./components/Footer/Footer";
-import { WrongPath } from "./pages/404Pages/WrongPath";
 
 function App() {
   const cartItem = useSelector((store) => store.cart);
@@ -37,7 +36,6 @@ function App() {
         <Route path="/insankaynaklari" element={<InsanKaynaklari />} />
         <Route path="/iletisim" element={<Iletisim />} />
         <Route path="/urunler" element={<Urunler />} />
-        <Route path="*" element={<WrongPath />} />
       </Routes>
       <Footer/>
     </div>
