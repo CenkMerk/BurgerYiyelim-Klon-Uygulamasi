@@ -11,7 +11,7 @@ export const Header = () => {
   return (
     <nav className="navbar navbar-expand-lg">
       <div className="container-fluid h-100">
-        <NavLink className="navbar-brand" to="/">
+        <NavLink className="navbar-brand" to="/BurgerYiyelim-Klon-Uygulamasi/">
           <img className="BurgerLogo" src={Logo} alt="logo" />
         </NavLink>
         <NavLink id="SiparisButtonTop" className="nav-link SiparisButton" to="/urunler">

@@ -28,7 +28,7 @@ function App() {
     <div className="App">
       <Header />
       <Routes>
-        <Route path="/" element={<Anasayfa />} />
+        <Route path="/BurgerYiyelim-Klon-Uygulamasi/" element={<Anasayfa />} />
         <Route path="/subelerimiz" element={<Subelerimiz />} />
         <Route path="/hakkimizda" element={<Hakkimizda />} />
         <Route path="/franchising" element={<Franchising />} />
