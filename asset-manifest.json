@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BurgerYiyelim-Klon-Uygulamasi/static/css/main.74026236.css",
-    "main.js": "/BurgerYiyelim-Klon-Uygulamasi/static/js/main.66156b3f.js",
+    "main.js": "/BurgerYiyelim-Klon-Uygulamasi/static/js/main.58395e9f.js",
     "static/media/SertifikaImg.png": "/BurgerYiyelim-Klon-Uygulamasi/static/media/SertifikaImg.aa0f281421411f3854c8.png",
     "static/media/hakkimizdaimg.png": "/BurgerYiyelim-Klon-Uygulamasi/static/media/hakkimizdaimg.2af2e3bc9727b4417825.png",
     "static/media/helalsertifikasi.png": "/BurgerYiyelim-Klon-Uygulamasi/static/media/helalsertifikasi.2af2e3bc9727b4417825.png",
@@ -41,10 +41,10 @@
     "static/media/etyiyelim.png": "/BurgerYiyelim-Klon-Uygulamasi/static/media/etyiyelim.8586fb22adc2d5af7965.png",
     "index.html": "/BurgerYiyelim-Klon-Uygulamasi/index.html",
     "main.74026236.css.map": "/BurgerYiyelim-Klon-Uygulamasi/static/css/main.74026236.css.map",
-    "main.66156b3f.js.map": "/BurgerYiyelim-Klon-Uygulamasi/static/js/main.66156b3f.js.map"
+    "main.58395e9f.js.map": "/BurgerYiyelim-Klon-Uygulamasi/static/js/main.58395e9f.js.map"
   },
   "entrypoints": [
     "static/css/main.74026236.css",
-    "static/js/main.66156b3f.js"
+    "static/js/main.58395e9f.js"
   ]
 }
