@@ -10,6 +10,8 @@
 - React Router DOM ile çok sayfalı yapı oluşturma ve yönlendirme işlemlerinin
   gerçekleştirilmesi
 
+- Bootstrap 5 kullanımı  
+
 ### 🛠️ Fonksiyonlar
 
 - Ürünleri listeleme
