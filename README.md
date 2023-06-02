@@ -26,6 +26,6 @@
 
 - Responsive web tasarımı
 
-**[Buradan](https://CenkMerk.github.io/Alisveris-Sepeti-Uygulamasi) projenin çalışır halini inceleyebilirsiniz.**
+**[Buradan](https://cenkmerk.github.io/BurgerYiyelim-Klon-Uygulamasi/) projenin çalışır halini inceleyebilirsiniz.**
 
 Klonladığım sayfanın linki : [BurgerYiyelim](https://www.burgeryiyelim.com)
